@@ -176,7 +176,7 @@ body {
     align-items: center;
     color: #fff;
     background-color: #181818;
-    padding: 70px 70px 70px 70px;
+    padding: 70px 40px 70px 40px;
     margin-top: 10px;
 }
 
@@ -191,7 +191,7 @@ body {
     gap: 50px;
     align-items: center;
     background-color: #181818;
-    padding: 70px;
+    padding: 40px;
 }
 
 .tecnologias .tecnologias-back-end ul i {
